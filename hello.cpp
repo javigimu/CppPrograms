@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world";
+    cout << "Primer cambio en el fichero";
     return 0;
 }
